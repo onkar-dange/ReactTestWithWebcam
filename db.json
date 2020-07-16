@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "web dev",
+      "author": "omkar"
+    },
+    {
+      "id": 2,
+      "title": "react web dev22",
+      "author": "omkar"
+    },
+    {
+      "id": 3,
+      "title": "web dev 3",
+      "author": "omkar"
+    },
+    {
+      "id": 4,
+      "title": "post",
+      "author": "om"
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1
+    },
+    {
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

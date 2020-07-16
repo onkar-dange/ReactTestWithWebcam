@@ -1,0 +1,27 @@
+
+.up {margin-top: 15px}
+.up2 {margin-top: 30px}
+.info{background: darkseagreen;padding: 33px;}
+.custom_row{margin-left: 0px;margin-right: 0px}
+.selected{font-weight: bold;}
+.center{width: 65%;margin-left: auto;margin-right: auto}
+.form{width: 50%;height: 500px; margin-left: auto;border: 1px solid dimgrey;margin-right: auto;padding: 50px;margin-top: 3%;margin-bottom: 3%;border-radius: 20px;}
+.signup{padding: 12px;color: white;background-color: #2ebcbc;}
+.remove{padding: 12px;color: white;background-color: #bc2e3a;margin-top: 1px}
+.getstart{padding: 12px;color: white;background-color: #b62d63c4;margin-top: 8%}
+.login{color: white;}
+input{padding: 10px;background: #3d4153;width: 100%;border: 1px solid #2ebcbc;}
+.block{width: 90%;height: 150px;}
+.menu{font-size: 18px;color: white}
+.divShadow{   
+  margin: 15px 20px 15px 20px;
+  background: black;
+  padding: 15px;
+  /* border: 1px solid wheat; */
+  border-radius: 10px;
+  -webkit-box-shadow: -9px -7px 14px 0px #08ffff;
+  box-shadow: 20px 0px 0px 0px #08ffff;
+}
+
+
+        
